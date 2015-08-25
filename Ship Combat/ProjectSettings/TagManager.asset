@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - playerObject
+  - playerTargetObject
+  - RUDDER
+  - HULL
+  - MAST
+  - SAIL
+  - CARGO_HOLD
+  - POWDER_MAGAZINE
+  - CREW
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PROJECTILE
+    uniqueID: 438458923
+    locked: 0
+  - name: RUDDER
+    uniqueID: 3525749411
+    locked: 0
+  - name: HULL
+    uniqueID: 3028189835
+    locked: 0
+  - name: LOWER_DECK
+    uniqueID: 1457773423
+    locked: 0
+  - name: MIDDLE_DECK
+    uniqueID: 4073115611
+    locked: 0
+  - name: UPPER_GUN_DECK
+    uniqueID: 2277537961
+    locked: 0
+  - name: MAST
+    uniqueID: 3859413425
+    locked: 0
+  - name: SAIL
+    uniqueID: 1126085661
+    locked: 0
